@@ -7,6 +7,7 @@ import cb from '../images/coinbase.svg';
 import zo from '../images/Zomato.png';
 import db from '../images/Dropbox.png';
 import nx from '../images/Netflix.png';
+import pytm from '../images/pytm.png';
 
 function Projects() {
   return (
@@ -150,6 +151,12 @@ function Projects() {
             <div className='flex justify-evenly'>
             <p className='my-1'>Source-code:<a href="https://github.com/C0DER227/React-JS-website-clones/tree/main/netflix"><img className='h-16' src={gh} alt="" /></a></p>
             <p className='my-1'>Website:<a href="#"><img className='h-16' src={web} alt="" /></a></p>
+            </div><hr />
+            <p className='font-medium py-2'>4.<img className='h-12' src={pytm} alt="" />  Paytm</p>
+            <p className='pb-2'>India's most trusted Payment online wallet<br /></p>
+            <div className='flex justify-evenly'>
+            <p className='my-1'>Source-code:<a href="https://github.com/C0DER227/Paytm-Clone"><img className='h-16' src={gh} alt="" /></a></p>
+            <p className='my-1'>Website:<a href="https://c0der227.github.io/Paytm-Clone/"><img className='h-16' src={web} alt="" /></a></p>
             </div>
         </div>
         </div>

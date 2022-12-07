@@ -1,6 +1,6 @@
 import './Styles/App.css';
 import Navbar from './Components/Navbar';
-import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
+import {BrowserRouter as Router,Routes,Route,} from 'react-router-dom';
 import Home from './Components/Home';
 import Resume from './Components/Resume';
 import Projects from './Components/Projects';
@@ -19,9 +19,8 @@ function App() {
         <Route path='/projects' element={<Projects/>}/>
         <Route path='/Contact' element={<Contact/>}/>
       </Routes>
+      <Footer />
     </Router>
-    
-    <Footer />
     </div>
   );
 }
