@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mmk-portfolio/static/css/main.01ffe6f0.css",
-    "main.js": "/mmk-portfolio/static/js/main.55936693.js",
+    "main.js": "/mmk-portfolio/static/js/main.3c25f298.js",
     "static/media/logo.gif": "/mmk-portfolio/static/media/logo.cf2f0d51e2fcced1e516.gif",
     "static/media/myntra.png": "/mmk-portfolio/static/media/myntra.eaa3e278fee135c4071c.png",
     "static/media/htmllogo.png": "/mmk-portfolio/static/media/htmllogo.4de5d2224c60b7fbde73.png",
@@ -16,10 +16,10 @@
     "index.html": "/mmk-portfolio/index.html",
     "static/media/coinbase.svg": "/mmk-portfolio/static/media/coinbase.ff1bcce15df8086e0c53075d5c100c57.svg",
     "main.01ffe6f0.css.map": "/mmk-portfolio/static/css/main.01ffe6f0.css.map",
-    "main.55936693.js.map": "/mmk-portfolio/static/js/main.55936693.js.map"
+    "main.3c25f298.js.map": "/mmk-portfolio/static/js/main.3c25f298.js.map"
   },
   "entrypoints": [
     "static/css/main.01ffe6f0.css",
-    "static/js/main.55936693.js"
+    "static/js/main.3c25f298.js"
   ]
 }
