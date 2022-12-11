@@ -6,15 +6,15 @@ import Resume from './Components/Resume';
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
-
 function App() {
   
   return (
     <div className="App">
-      <Navbar />
       <Router>
+      <Navbar />
+      
       <Routes>
-        <Route path='/' element={<Home/>}/>
+        <Route  path='/' element={<Home/>}/>
         <Route path='/resume' element={<Resume/>}/>
         <Route path='/projects' element={<Projects/>}/>
         <Route path='/Contact' element={<Contact/>}/>

@@ -8,6 +8,7 @@ import zo from '../images/Zomato.png';
 import db from '../images/Dropbox.png';
 import nx from '../images/Netflix.png';
 import pytm from '../images/pytm.png';
+import inst from '../images/inst.png';
 
 function Projects() {
   return (
@@ -157,6 +158,12 @@ function Projects() {
             <div className='flex justify-evenly'>
             <p className='my-1'>Source-code:<a href="https://github.com/C0DER227/Paytm-Clone"><img className='h-16' src={gh} alt="" /></a></p>
             <p className='my-1'>Website:<a href="https://c0der227.github.io/Paytm-Clone/"><img className='h-16' src={web} alt="" /></a></p>
+            </div><hr />
+            <p className='font-medium py-2'>5.<img className='h-12' src={inst} alt="" />  Instagram</p>
+            <p className='pb-2'>World's Most engaging social media website<br /></p>
+            <div className='flex justify-evenly'>
+            <p className='my-1'>Source-code:<a href="https://github.com/C0DER227/Instagram-Clone"><img className='h-16' src={gh} alt="" /></a></p>
+            <p className='my-1'>Website:<a href="https://c0der227.github.io/Instagram-Clone/"><img className='h-16' src={web} alt="" /></a></p>
             </div>
         </div>
         </div>
